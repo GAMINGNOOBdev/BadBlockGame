@@ -7,3 +7,19 @@
 [submodule "glew"]
 	path = glew
 	url = https://github.com/Perlmint/glew-cmake
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "assimp"]
+	path = assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "box2d"]
+	path = box2d
+	url = https://github.com/erincatto/box2d.git
+[submodule "JoltPhysics"]
+	path = JoltPhysics
+	url = https://github.com/jrouwe/JoltPhysics.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
